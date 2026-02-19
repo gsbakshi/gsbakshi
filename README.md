@@ -2,6 +2,8 @@
 
 ![Header](https://raw.githubusercontent.com/gsbakshi/gsbakshi/refs/heads/main/assets/header.svg)
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=Engineering+%40+Summit+%C2%B7+Building+with+AI;Co-Founder+%C2%B7+Builder+%C2%B7+Engineer;Automobile+Eng+%E2%86%92+Founder+%E2%86%92+SWE;Fintech+%C2%B7+RAG+Pipelines+%C2%B7+Open+Source)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsbakshi/)
