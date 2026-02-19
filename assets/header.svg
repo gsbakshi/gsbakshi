@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300">
+  <defs>
+    <!-- Scanline texture -->
+    <pattern id="sl" width="900" height="3" patternUnits="userSpaceOnUse">
+      <rect width="900" height="1" y="2" fill="#00ff41" fill-opacity="0.018"/>
+    </pattern>
+
+    <!-- Typewriter clip: name line -->
+    <clipPath id="cr1">
+      <rect x="0" y="95" width="0" height="70">
+        <animate attributeName="width" from="0" to="900" dur="1.8s" begin="0.5s" fill="freeze"/>
+      </rect>
+    </clipPath>
+
+    <!-- Typewriter clip: tagline -->
+    <clipPath id="cr2">
+      <rect x="0" y="165" width="0" height="32">
+        <animate attributeName="width" from="0" to="900" dur="1.3s" begin="2.6s" fill="freeze"/>
+      </rect>
+    </clipPath>
+
+    <!-- Typewriter clip: status line -->
+    <clipPath id="cr3">
+      <rect x="0" y="207" width="0" height="28">
+        <animate attributeName="width" from="0" to="900" dur="1.1s" begin="4.1s" fill="freeze"/>
+      </rect>
+    </clipPath>
+
+    <!-- Name glow -->
+    <filter id="glow" x="-15%" y="-40%" width="130%" height="180%">
+      <feGaussianBlur stdDeviation="2.8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <style>
+      @keyframes blink   { 0%,100%{opacity:1}  50%{opacity:0} }
+      @keyframes appear  { to{opacity:1} }
+      @keyframes fade-in { from{opacity:0} to{opacity:1} }
+      .cursor {
+        opacity: 0;
+        animation: appear 0s 2.4s forwards, blink 1.1s step-end 2.4s infinite;
+      }
+      .prompt-line { animation: fade-in 0.4s ease 0.1s both; }
+    </style>
+  </defs>
+
+  <!-- ── Black background ───────────────────────────────────── -->
+  <rect width="900" height="300" fill="#000000"/>
+
+  <!-- ── Ambient hex/binary background noise ───────────────── -->
+  <!-- Right column 1 (x≈840) -->
+  <text x="840" y="52"  font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.07">0x4F2A</text>
+  <text x="844" y="67"  font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.05">0x1B9E</text>
+  <text x="840" y="82"  font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.08">0x7C3D</text>
+  <text x="844" y="97"  font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.05">10100</text>
+  <text x="840" y="112" font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.07">0xA4B2</text>
+  <text x="844" y="127" font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.05">01101</text>
+  <text x="840" y="142" font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.08">0x2E8F</text>
+  <text x="844" y="157" font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.06">11001</text>
+  <text x="840" y="172" font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.07">0xD4E1</text>
+  <text x="844" y="187" font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.05">00110</text>
+  <text x="840" y="202" font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.07">0x9F2B</text>
+  <text x="844" y="217" font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.05">10010</text>
+
+  <!-- Right column 2 (x≈872) -->
+  <text x="872" y="60"  font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.05">FF</text>
+  <text x="872" y="82"  font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.06">2A</text>
+  <text x="872" y="104" font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.04">B7</text>
+  <text x="872" y="126" font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.06">3F</text>
+  <text x="872" y="148" font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.05">8C</text>
+  <text x="872" y="170" font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.06">E1</text>
+  <text x="872" y="192" font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.04">4D</text>
+
+  <!-- Top scattered -->
+  <text x="198" y="18"  font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.05">0x8B2C</text>
+  <text x="336" y="22"  font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.04">10110</text>
+  <text x="472" y="16"  font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.05">0xD4E1</text>
+  <text x="604" y="20"  font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.04">0x6A3F</text>
+
+  <!-- Bottom scattered -->
+  <text x="560" y="258" font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.05">0x3F7A</text>
+  <text x="654" y="266" font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.04">01101</text>
+  <text x="720" y="252" font-family="Courier New,monospace" font-size="8" fill="#00ff41" fill-opacity="0.05">0xFF4E</text>
+
+  <!-- Left edge (between page edge and accent bar) -->
+  <text x="6" y="126"   font-family="Courier New,monospace" font-size="7" fill="#00ff41" fill-opacity="0.05">01001</text>
+  <text x="6" y="158"   font-family="Courier New,monospace" font-size="7" fill="#00ff41" fill-opacity="0.04">11010</text>
+  <text x="6" y="190"   font-family="Courier New,monospace" font-size="7" fill="#00ff41" fill-opacity="0.05">00101</text>
+
+  <!-- ── Scanlines overlay ───────────────────────────────────── -->
+  <rect width="900" height="300" fill="url(#sl)"/>
+
+  <!-- ── Top accent strip ───────────────────────────────────── -->
+  <rect width="900" height="2" fill="#00ff41" fill-opacity="0.75"/>
+
+  <!-- ── Left accent bar ────────────────────────────────────── -->
+  <rect x="40" y="44" width="2" height="212" rx="1" fill="#00ff41" fill-opacity="0.50"/>
+
+  <!-- ── Top-right session info ─────────────────────────────── -->
+  <text x="716" y="40" font-family="Courier New,monospace" font-size="9" fill="#00ff41" fill-opacity="0.28" letter-spacing="0.5">session: active</text>
+  <text x="716" y="54" font-family="Courier New,monospace" font-size="9" fill="#00ff41" fill-opacity="0.20" letter-spacing="0.5">uptime: 4y+ @ summit</text>
+
+  <!-- ── Prompt prefix (immediate, fades in) ────────────────── -->
+  <text x="54" y="78" class="prompt-line"
+    font-family="Courier New,Courier,monospace"
+    font-size="12" fill="#00ff41" fill-opacity="0.38" letter-spacing="0.5">~/gsbakshi $</text>
+
+  <!-- ── Name — typewriter clip reveal ─────────────────────── -->
+  <g clip-path="url(#cr1)">
+    <text x="54" y="148"
+      font-family="Courier New,Courier,monospace"
+      font-size="52" font-weight="700"
+      fill="#00ff41"
+      filter="url(#glow)">Gurmehar Bakshi</text>
+  </g>
+
+  <!-- ── Blinking block cursor (appears after name finishes) ── -->
+  <!-- Courier New at 52px: char width = 0.6×52 = 31.2px, 15 chars × 31.2 = 468px, start x=54, end x=522 -->
+  <!-- Cap height ≈ 0.63×52 = 32.8px above baseline(148), so cursor top ≈ y=115 -->
+  <rect class="cursor" x="526" y="114" width="30" height="38" fill="#00ff41" fill-opacity="0.88"/>
+
+  <!-- ── Tagline — delayed clip reveal ─────────────────────── -->
+  <g clip-path="url(#cr2)">
+    <text x="54" y="183"
+      font-family="Courier New,Courier,monospace"
+      font-size="13" fill="#00ff41" fill-opacity="0.68"
+      letter-spacing="2.2"><tspan fill-opacity="0.36">›  </tspan>Full-Stack Engineer · Fintech · AI Builder</text>
+  </g>
+
+  <!-- ── Status — further delayed clip reveal ──────────────── -->
+  <g clip-path="url(#cr3)">
+    <text x="54" y="224"
+      font-family="Courier New,Courier,monospace"
+      font-size="10" fill="#00ff41" fill-opacity="0.30"
+      letter-spacing="1.5">// TODO: build my own AI model from scratch</text>
+  </g>
+
+  <!-- ── Bottom accent strip ────────────────────────────────── -->
+  <rect y="298" width="900" height="2" fill="#00ff41" fill-opacity="0.28"/>
+</svg>
