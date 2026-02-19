@@ -37,7 +37,7 @@ Automobile engineer by degree. Co-founded a startup before going deep on enginee
 | ---- | ---------------------------------------------------------------------------------------------- | ------------------------------------ |
 | ⭐ 27 | [**boomer-driver**](https://github.com/gsbakshi/boomer-driver) — Driver app for ridesharing    | Flutter · Firebase                   |
 | ⭐ 13 | [**boomer-rider**](https://github.com/gsbakshi/boomer-rider) — Ridesharing app                 | Flutter · Firebase                   |
-| ⭐ 3  | [**NebulaTV**](https://github.com/gsbakshi/NebulaTV) — Android TV launcher & multi-tab browser | Kotlin · GeckoView · Firefox Sync    |
+| ⭐ 3  | [**NebulaTV**](https://github.com/gsbakshi/nebula-tv) — Android TV launcher & multi-tab browser | Kotlin · GeckoView · Firefox Sync    |
 | ⭐ 1  | [**metaface**](https://github.com/gsbakshi/metaface) — Face detection web app                  | React · Express · PostgreSQL · Redis |
 
 ![Divider](https://raw.githubusercontent.com/gsbakshi/gsbakshi/refs/heads/main/assets/divider.svg)
