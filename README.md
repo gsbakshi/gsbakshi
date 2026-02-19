@@ -1,144 +1,75 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://www.linkedin.com/in/gsbakshi/)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gurmehar%20Bakshi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Fintech%20%C2%B7%20AI%20Builder&descAlignY=56&descFontColor=fff&descSize=20" />
 
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" />,
-  I'm Gurmehar Bakshi
-</h1>
+<div align="center">
 
-<h3 align="center">Full-stack engineer based in Mumbai</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&center=true&vCenter=true&width=560&lines=Engineering+%40+Summit+%C2%B7+Building+with+AI;Builder+%C2%B7+Engineer;Automobile+Eng+%E2%86%92+Founder+%E2%86%92+SWE;Fintech+%C2%B7+ML+Research+%C2%B7+Open+Source" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://git.io/typing-svg" target="_blank" rel="noreferrer">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=%3CCoderWithAPassion+%2F%3E;Tech+Innovator+%26+Problem+Solver;Eternal+Learner+%26+Tech+Explorer;%3CInCodeWeTrust+%2F%3E"
-      alt="Typing SVG"
-    />
-  </a>
+<br /><br />
+
+<a href="https://www.linkedin.com/in/gsbakshi/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:greaser.bakshi@gmail.com">
+  <img src="https://img.shields.io/badge/greaser.bakshi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+SE-2 at **Summit** (formerly Spenmo) — 4+ years shipping expense management, corporate cards, reimbursements, and invoice tooling across a distributed TypeScript · Node.js · Go stack.
+
+Automobile engineer by degree. Co-founded a startup before going deep on engineering. In my free time I like building RAG pipelines, and running a homelab that's about to get very busy with agents.
+
+---
+
+### What I'm building
+
+| | |
+|---|---|
+| 💳 **Summit** | B2B spend management — cards, budgets, reimbursements, invoicing at scale |
+| 🎨 **Research** | Generative visualisation · AI-assisted creative workflows |
+| 🤖 **Research** | Conversational AI · real-time communication |
+| 🧠 **AI/ML** | RAG pipelines · NLP sentiment · ensemble models · working toward training custom models |
+| 🖥️ **Homelab** | Proxmox · ZeroTier · agent automation incoming |
+
+---
+
+### Open source
+
+| | Project | Stack |
+|---|---|---|
+| ⭐ 13 | [**boomer-rider**](https://github.com/gsbakshi/boomer-rider) — Ridesharing app | Flutter · Firebase |
+| | [**NebulaTV**](https://github.com/gsbakshi/NebulaTV) — Android TV launcher & multi-tab browser | Kotlin · GeckoView · Firefox Sync |
+| | [**metaface**](https://github.com/gsbakshi/metaface) — Face detection web app | React · Express · PostgreSQL · Redis |
+
+---
+
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
-<p align="center">
-  <a href="mailto:greaser.bakshi@gmail.com">greaser.bakshi@gmail.com</a>
-</p>
+---
 
-<img
-  align="right"
-  alt="Coding"
-  width="400"
-  src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif"
-/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsbakshi&hide_border=true" height="150" alt="GitHub Streak" />
+</div>
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/gsbakshi/" target="_blank" rel="noreferrer">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="30"
-      width="40"
-    />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gsbakshi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsbakshi&layout=compact&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+</div>
 
-<br />
-
-<h3 align="left">Top technologies</h3>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-E535AB?style=for-the-badge&labelColor=black&logo=next.js&logoColor=E535AB" alt="Next.js" />
-</p>
-
-<br />
-
-<h3 align="left">Languages and tools</h3>
-
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
