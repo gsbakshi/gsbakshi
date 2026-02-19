@@ -4,19 +4,13 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=Engineering+%40+Summit+%C2%B7+Building+with+AI;Co-Founder+%C2%B7+Builder+%C2%B7+Engineer;Automobile+Eng+%E2%86%92+Founder+%E2%86%92+SWE;Fintech+%C2%B7+RAG+Pipelines+%C2%B7+Open+Source" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=Engineering+%40+Summit+%C2%B7+Building+with+AI;Co-Founder+%C2%B7+Builder+%C2%B7+Engineer;Automobile+Eng+%E2%86%92+Founder+%E2%86%92+SWE;Fintech+%C2%B7+RAG+Pipelines+%C2%B7+Open+Source)](https://git.io/typing-svg)
 
 <br /><br />
 
-<a href="https://www.linkedin.com/in/gsbakshi/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsbakshi/)
 &nbsp;
-<a href="mailto:greaser.bakshi@gmail.com">
-  <img src="https://img.shields.io/badge/greaser.bakshi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
+[![greaser.bakshi@gmail.com](https://img.shields.io/badge/greaser.bakshi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:greaser.bakshi@gmail.com)
 
 </div>
 
@@ -26,7 +20,7 @@
 
 <br />
 
-SE-2 at **Summit** (formerly Spenmo) — 4+ years shipping expense management, corporate cards, reimbursements, and invoice tooling across a distributed TypeScript · Node.js · Go stack.
+SDE-2 at **Summit** (formerly Spenmo) — 4+ years shipping expense management, corporate cards, reimbursements, and vendor invoice manangement across a distributed TypeScript · Node.js · Go stack.
 
 Automobile engineer by degree. Co-founded a startup before going deep on engineering. In my free time I like building RAG pipelines, and running a homelab that's about to get very busy with agents.
 
@@ -38,13 +32,13 @@ Automobile engineer by degree. Co-founded a startup before going deep on enginee
 
 ### What I'm building
 
-| | |
-|---|---|
-| 💳 **Summit** | B2B spend management — cards, budgets, reimbursements, invoicing at scale |
-| 🎨 **Research** | Generative visualisation · AI-assisted creative workflows |
-| 🤖 **Research** | Conversational AI · real-time communication |
-| 🧠 **AI/ML** | RAG pipelines · NLP sentiment · ensemble models · working toward training custom models |
-| 🖥️ **Homelab** | Proxmox · ZeroTier · agent automation incoming |
+|                |                                                                                         |
+| -------------- | --------------------------------------------------------------------------------------- |
+| 💳 **Summit**   | B2B spend management — cards, budgets, reimbursements, invoicing at scale               |
+| 🎨 **Research** | Generative visualisation · AI-assisted creative workflows                               |
+| 🤖 **Research** | Conversational AI · real-time communication                                             |
+| 🧠 **AI/ML**    | RAG pipelines · NLP sentiment · ensemble models · working toward training custom models |
+| 🖥️ **Homelab**  | Proxmox · ZeroTier · agent automation incoming                                          |
 
 <br />
 
@@ -54,11 +48,12 @@ Automobile engineer by degree. Co-founded a startup before going deep on enginee
 
 ### Open source
 
-| | Project | Stack |
-|---|---|---|
-| ⭐ 13 | [**boomer-rider**](https://github.com/gsbakshi/boomer-rider) — Ridesharing app | Flutter · Firebase |
-| | [**NebulaTV**](https://github.com/gsbakshi/NebulaTV) — Android TV launcher & multi-tab browser | Kotlin · GeckoView · Firefox Sync |
-| | [**metaface**](https://github.com/gsbakshi/metaface) — Face detection web app | React · Express · PostgreSQL · Redis |
+|      | Project                                                                                        | Stack                                |
+| ---- | ---------------------------------------------------------------------------------------------- | ------------------------------------ |
+| ⭐ 27 | [**boomer-driver**](https://github.com/gsbakshi/boomer-driver) — Driver App for Ridesharing    | Flutter · Firebase                   |
+| ⭐ 13 | [**boomer-rider**](https://github.com/gsbakshi/boomer-rider) — Ridesharing app                 | Flutter · Firebase                   |
+| ⭐ 3  | [**NebulaTV**](https://github.com/gsbakshi/NebulaTV) — Android TV launcher & multi-tab browser | Kotlin · GeckoView · Firefox Sync    |
+| ⭐ 1  | [**metaface**](https://github.com/gsbakshi/metaface) — Face detection web app                  | React · Express · PostgreSQL · Redis |
 
 <br />
 
@@ -90,7 +85,7 @@ Automobile engineer by degree. Co-founded a startup before going deep on enginee
 
 **AI & ML**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,r,bash,vim&perline=7" alt="AI & ML" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,bash&perline=5" alt="AI & ML" />
 
 </div>
 
