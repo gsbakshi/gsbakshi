@@ -98,12 +98,6 @@ Automobile engineer by degree. Co-founded a startup before going deep on enginee
 ### GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gsbakshi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsbakshi&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
@@ -112,20 +106,6 @@ Automobile engineer by degree. Co-founded a startup before going deep on enginee
 <div align="center">
   <img src="https://raw.githubusercontent.com/gsbakshi/gsbakshi/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark" />
   <img src="https://raw.githubusercontent.com/gsbakshi/gsbakshi/output/github-snake.svg#gh-light-mode-only" alt="Snake animation light" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsbakshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.demolab.com?user=gsbakshi&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsbakshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 <br />
