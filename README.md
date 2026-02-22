@@ -1,19 +1,17 @@
 #
 
-![Header](https://raw.githubusercontent.com/gsbakshi/gsbakshi/refs/heads/main/assets/header.svg)
-
 <div align="center">
+
+![Header](https://raw.githubusercontent.com/gsbakshi/gsbakshi/refs/heads/main/assets/header.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=Engineering+%40+Summit+%C2%B7+Building+with+AI;Co-Founder+%C2%B7+Builder+%C2%B7+Engineer;Automobile+Eng+%E2%86%92+Founder+%E2%86%92+SWE;Fintech+%C2%B7+RAG+Pipelines+%C2%B7+Open+Source)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsbakshi/)
 [![greaser.bakshi@gmail.com](https://img.shields.io/badge/greaser.bakshi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:greaser.bakshi@gmail.com)
 
-</div>
-
 ![Divider](https://raw.githubusercontent.com/gsbakshi/gsbakshi/refs/heads/main/assets/divider.svg)
 
-SDE-2 at **Summit** (formerly Spenmo) — 4+ years shipping expense management, corporate cards, reimbursements, and vendor invoice management across a distributed TypeScript · Node.js · Go stack.
+SDE-2 at **Summit** (formerly Spenmo) — 4+ years shipping expense management, budgets, reimbursements, and vendor invoice management across a distributed TypeScript · Next.js · React.js · Go stack.
 
 Automobile engineer by degree. Co-founded a startup before going deep on engineering. In my free time I like building RAG pipelines, and running a homelab that's about to get very busy with agents.
 
@@ -21,30 +19,27 @@ Automobile engineer by degree. Co-founded a startup before going deep on enginee
 
 ## What I'm building
 
-|                |                                                                                         |
-| -------------- | --------------------------------------------------------------------------------------- |
-| 💳 **Summit**   | B2B spend management — cards, budgets, reimbursements, invoicing at scale               |
-| 🎨 **Research** | Generative visualisation · AI-assisted creative workflows                               |
-| 🤖 **Research** | Conversational AI · real-time communication                                             |
-| 🧠 **AI/ML**    | RAG pipelines · NLP sentiment · ensemble models · working toward training custom models |
-| 🖥️ **Homelab**  | Proxmox · ZeroTier · agent automation incoming                                          |
+|                |                                                                                                  |
+| -------------- | ------------------------------------------------------------------------------------------------ |
+| 💳 **Summit**   | B2B spend management — cards, budgets, reimbursements, invoicing at scale                        |
+| 📺 **NebulaTV** | Android TV launcher & multi-tab browser · Firefox Sync · Kotlin · Open Source                    |
+| 🧠 **AI/ML**    | Learning RAG pipelines · NLP sentiment · ensemble models · working toward training custom models |
+| 🖥️ **Homelab**  | Proxmox · ZeroTier · agent automation incoming                                                   |
 
 ![Divider](https://raw.githubusercontent.com/gsbakshi/gsbakshi/refs/heads/main/assets/divider.svg)
 
 ## Open source
 
-|      | Project                                                                                        | Stack                                |
-| ---- | ---------------------------------------------------------------------------------------------- | ------------------------------------ |
-| ⭐ 26 | [**boomer-driver**](https://github.com/gsbakshi/boomer-driver) — Driver app for ridesharing    | Flutter · Firebase                   |
-| ⭐ 13 | [**boomer-rider**](https://github.com/gsbakshi/boomer-rider) — Ridesharing app                 | Flutter · Firebase                   |
-| ⭐ 3  | [**NebulaTV**](https://github.com/gsbakshi/nebula-tv) — Android TV launcher & multi-tab browser | Kotlin · GeckoView · Firefox Sync    |
-| ⭐ 1  | [**metaface**](https://github.com/gsbakshi/metaface) — Face detection web app                  | React · Express · PostgreSQL · Redis |
+| Stars                                                                        | Project                                                                                         | Stack                                |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------ |
+| ![](https://img.shields.io/github/stars/gsbakshi/boomer-driver?style=social) | [**boomer-driver**](https://github.com/gsbakshi/boomer-driver) — Driver app for ridesharing     | Flutter · Firebase                   |
+| ![](https://img.shields.io/github/stars/gsbakshi/boomer-rider?style=social)  | [**boomer-rider**](https://github.com/gsbakshi/boomer-rider) — Ridesharing app                  | Flutter · Firebase                   |
+| ![](https://img.shields.io/github/stars/gsbakshi/nebula-tv?style=social)     | [**NebulaTV**](https://github.com/gsbakshi/nebula-tv) — Android TV launcher & multi-tab browser | Kotlin · GeckoView · Firefox Sync    |
+| ![](https://img.shields.io/github/stars/gsbakshi/metaface?style=social)      | [**metaface**](https://github.com/gsbakshi/metaface) — Face detection web app                   | React · Express · PostgreSQL · Redis |
 
 ![Divider](https://raw.githubusercontent.com/gsbakshi/gsbakshi/refs/heads/main/assets/divider.svg)
 
 ## Stack
-
-<div align="center">
 
 **Frontend & Mobile**
 
@@ -62,8 +57,6 @@ Automobile engineer by degree. Co-founded a startup before going deep on enginee
 
 ![AI & ML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,bash&perline=5)
 
-</div>
-
 ![Divider](https://raw.githubusercontent.com/gsbakshi/gsbakshi/refs/heads/main/assets/divider.svg)
 
 ## GitHub
@@ -76,3 +69,5 @@ Automobile engineer by degree. Co-founded a startup before going deep on enginee
 </div>
 
 ![Footer](https://raw.githubusercontent.com/gsbakshi/gsbakshi/refs/heads/main/assets/footer.svg)
+
+</div>
