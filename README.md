@@ -1,5 +1,3 @@
-#
-
 <div align="center">
 
 ![Header](https://raw.githubusercontent.com/gsbakshi/gsbakshi/refs/heads/main/assets/header.svg)
@@ -11,9 +9,11 @@
 
 ![Divider](https://raw.githubusercontent.com/gsbakshi/gsbakshi/refs/heads/main/assets/divider.svg)
 
+
 SDE-2 at **Summit** (formerly Spenmo) — 4+ years shipping expense management, budgets, reimbursements, and vendor invoice management across a distributed TypeScript · Next.js · React.js · Go stack.
 
 Automobile engineer by degree. Co-founded a startup before going deep on engineering. In my free time I like building RAG pipelines, and running a homelab that's about to get very busy with agents.
+
 
 ![Divider](https://raw.githubusercontent.com/gsbakshi/gsbakshi/refs/heads/main/assets/divider.svg)
 
@@ -65,8 +65,6 @@ Automobile engineer by degree. Co-founded a startup before going deep on enginee
 
 ![Snake dark](https://raw.githubusercontent.com/gsbakshi/gsbakshi/output/github-snake-dark.svg#gh-dark-mode-only)
 ![Snake light](https://raw.githubusercontent.com/gsbakshi/gsbakshi/output/github-snake.svg#gh-light-mode-only)
-
-</div>
 
 ![Footer](https://raw.githubusercontent.com/gsbakshi/gsbakshi/refs/heads/main/assets/footer.svg)
 
